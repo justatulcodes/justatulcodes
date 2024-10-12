@@ -26,7 +26,3 @@ If you have any Android related question or just want to reach me out, you may c
 ![Bootstrap](https://img.shields.io/badge/-Kotlin-05122A?style=flat-square&logo=Kotlin&color=353535) ![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=Java&color=353535) ![Bootstrap](https://img.shields.io/badge/-Jetpack%20Compose-05122A?style=flat-square&logo=Jetpack-Compose&color=353535) ![Bootstrap](https://img.shields.io/badge/-WebRTC-05122A?style=flat-square&logo=WebRTC&color=353535) ![Bootstrap](https://img.shields.io/badge/-MLKit%20Vision-05122A?style=flat-square&logo=MLKit-Vision&color=353535) ![Bootstrap](https://img.shields.io/badge/-UI/UX-05122A?style=flat-square&logo=UI/UX&color=353535)
 
 
-
-
----
-:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
