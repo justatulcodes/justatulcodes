@@ -1,25 +1,32 @@
-<h1 align="center">Hi 👋, I'm Atul</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+# Just Atul
 
-- 🔭 I’m currently working on **A product to solve commute problem among general public**
 
-- 🌱 I’m currently learning **Android Backend, Firebase, and little bit of flutter**
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/justatul_)](https://twitter.com/justatul_)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/justatul/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/expeknow/)](https://www.instagram.com/expeknow)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Atul.k.work@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://justatul.notion.site/Just-Atul-15a5b7ad04ce4b679d4fbd3712e22abd)](https://justatul.notion.site/Just-Atul-15a5b7ad04ce4b679d4fbd3712e22abd)
+[![Github](https://img.shields.io/github/followers/justatulcodes?label=Follow&style=social)](https://github.com/justatulcodes)
 
-- 👨‍💻 Visuals of all my projects are available at [https://www.instagram.com/expeknow/](https://www.instagram.com/expeknow/)
+- ☀️ Daytime I work as an Android Developer building suit of AI enabled fitness and physio related applications.
+- 🌙 At night I work on BN, building a mobility platform that enables seamless and sustainable commute.
 
-- 💬 Ask me about **Jetpack Compose and android development**
+If you have any Android related question or just want to reach me out, you may contact me at Atul.k.work@gmail.com
 
-- 📫 How to reach me **atul.k.work@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Fa63iidUVHhfml5uZCAtpzlSe6SLvQ8Z/view?usp=sharing](https://drive.google.com/file/d/1Fa63iidUVHhfml5uZCAtpzlSe6SLvQ8Z/view?usp=sharing)
+### 🖥 Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/androidatul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="androidatul" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/justatul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/justatul/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/expeknow/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/expeknow/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@expeknow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@expeknow" height="30" width="40" /></a>
-</p>
+- Native Android Development
+- Jetpack Compose
+- Flutter
+- Unit/UI Testing
+- Architectural Designing
+### ⚙️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![Bootstrap](https://img.shields.io/badge/-Kotlin-05122A?style=flat-square&logo=Kotlin&color=353535) ![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=Java&color=353535) ![Bootstrap](https://img.shields.io/badge/-Jetpack%20Compose-05122A?style=flat-square&logo=Jetpack-Compose&color=353535) ![Bootstrap](https://img.shields.io/badge/-WebRTC-05122A?style=flat-square&logo=WebRTC&color=353535) ![Bootstrap](https://img.shields.io/badge/-MLKit%20Vision-05122A?style=flat-square&logo=MLKit-Vision&color=353535) ![Bootstrap](https://img.shields.io/badge/-UI/UX-05122A?style=flat-square&logo=UI/UX&color=353535)
+
+
+
+
+---
+:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
